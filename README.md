@@ -2,8 +2,7 @@
 
 A POC Mobile/Web App using Node.js+Express+Angular.js , this app help patients to engage in clinical trials.
 
-<img src="https://raw.github.com/matiasurbano/clinical/master/docs/presentacion/qrcode.png" width="150px">
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Lk779dlVrsw/hqdefault.jpg)](https://www.youtube.com/watch?v=Lk779dlVrsw)
 
 Background
 -----
